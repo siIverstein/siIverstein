@@ -11,11 +11,11 @@ ${\color{#3f0732} music \space is \space my \space life \space}$
 
 ${\space}$
 
-${\color{#e0b577} atab \space so \space dry \space some1 \space pls \space sign}$ ${\color{#e0b577}}$ [it](https://kiribaku.atabook.org/)
+${\color{#3f0732} atab \space so \space dry \space some1 \space pls \space sign}$ ${\color{#e0b577}}$ [it](https://kiribaku.atabook.org/)
 ${\space}$
 
 
-${\color{#e0b577} \space}$
+${\color{#d5ceca} \space}$
 
 ${\color{#e0b577}  ࣪˖𓂃۶ৎ˚𓂃 \space ˖ִֶ  \space}$
 
