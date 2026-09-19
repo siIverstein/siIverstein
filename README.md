@@ -3,7 +3,7 @@
 Wip pls dont look pls 
 
 
-  <img src="https://komarev.com/ghpvc/?username=eh&label=🏐:spikes&color=3f0732&style=flat" alt="iwaoi" />
+  <img src="https://komarev.com/ghpvc/?username=eh&label=ᖳᖰ&color=3f0732&style=flat" alt="iwaoi" />
 </p>
 
 ${\color{#e0b577} >⩊<.ᐟ \space}$
