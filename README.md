@@ -15,13 +15,6 @@ ${\color{#3f0732} atab \space so \space dry \space some1 \space pls \space sign}
 ${\space}$
 
 
-${\color{#d5ceca} \space}$
-
-${\color{#e0b577}  ࣪˖𓂃۶ৎ˚𓂃 \space ˖ִֶ  \space}$
-
-<img width="350" height="300" alt="image" src="https://github.com/user-attachments/assets/8404c45f-0137-48d7-8618-400fb20dc9de" />
-
-
 ${\color{#e0b577} \space}$
 
 ${\color{#3f0732} Thanku }$
