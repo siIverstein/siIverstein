@@ -17,7 +17,6 @@ ${\space}$
 ${\color{#e0b577} Sign \space my \space}$ ${\color{#e0b577}}$ [atabukk۶ৎ](https://kiribaku.atabook.org/)
 ${\space}$
 
-<img width="736" height="1308" alt="download (10)" src="https://github.com/user-attachments/assets/b1243f2c-73ca-4b87-ac75-b05d4dc7fe79" />
 
 ${\color{#e0b577} \space}$
 
