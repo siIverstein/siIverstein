@@ -14,7 +14,7 @@ ${\color{#e0b577} music \space is \space my \space life \space mobile}$
 
 ${\space}$
 
-${\color{#e0b577} Sign \space my \space}$ ${\color{#e0b577}}$ [atabukk۶ৎ](https://kiribaku.atabook.org/)
+${\color{#e0b577} atab \space so \space dry \space some1 \space pls \space sign \space }$ ${\color{#e0b577}}$ [it](https://kiribaku.atabook.org/)
 ${\space}$
 
 
