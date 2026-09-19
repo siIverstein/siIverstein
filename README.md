@@ -6,7 +6,7 @@
 ${\color{#e0b577} music \space is \space my \space life \space}$
 
 
-<img width="936" height="614" alt="image" src="https://github.com/user-attachments/assets/47f47d62-fa5e-419b-ab12-5e905709a050" />
+<img width="1036" height="614" alt="image" src="https://github.com/user-attachments/assets/47f47d62-fa5e-419b-ab12-5e905709a050" />
 
 
 ${\space}$
