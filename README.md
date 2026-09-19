@@ -19,7 +19,7 @@ ${\color{#e0b577} \space}$
 
 ${\color{#e0b577}  ࣪˖𓂃۶ৎ˚𓂃 \space ˖ִֶ  \space}$
 
-<img width="580" height="500" alt="image" src="https://github.com/user-attachments/assets/8404c45f-0137-48d7-8618-400fb20dc9de" />
+<img width="380" height="300" alt="image" src="https://github.com/user-attachments/assets/8404c45f-0137-48d7-8618-400fb20dc9de" />
 
 
 ${\color{#e0b577} \space}$
