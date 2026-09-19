@@ -1,9 +1,9 @@
 <div align="center">
 
-  <img src="https://komarev.com/ghpvc/?username=eh&label=ᖳᖰ&color=38dec5&style=flat" alt="iwaoi" />
+  <img src="https://komarev.com/ghpvc/?username=eh&label=ᖳᖰ&color=3f0732&style=flat" alt="iwaoi" />
 </p>
 
-${\color{#3f0732} music \space is \space my \space life \space}$
+${\color{#38dec5} music \space is \space my \space life \space}$
 
 
 <img width="1036" height="614" alt="image" src="https://github.com/user-attachments/assets/47f47d62-fa5e-419b-ab12-5e905709a050" />
