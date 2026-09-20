@@ -12,7 +12,7 @@ ${\space}$
 
 ${\space}$
 
-${\color{#0e959b} atab \space so \space dry \space some1 \space pls \space sign}$ ${\color{#e0b577}}$ [it](https://kiribaku.atabook.org/)
+${\color{#1b2139} atab \space so \space dry \space some1 \space pls \space sign}$ ${\color{#e0b577}}$ [it](https://kiribaku.atabook.org/)
 ${\space}$
 
 
