@@ -62,6 +62,12 @@ ${\space}$
 <img width="150" height="20" alt="blinkiesCafe-a8" src="https://github.com/user-attachments/assets/2e2aa653-9dc4-449a-a807-58a7c7df8aa6" />
 <img width="150" height="20" alt="blinkiesCafe-zs" src="https://github.com/user-attachments/assets/bec1b41d-b6cf-4cd0-8296-1eef9b48a516" />
 <img width="150" height="20" alt="blinkiesCafe-s6" src="https://github.com/user-attachments/assets/824d5c4e-f06f-468c-8a5a-92eb763e7683" />
+<img width="150" height="20" alt="blinkiesCafe-nE" src="https://github.com/user-attachments/assets/7cd897dd-7033-418e-b36d-55bd3b59a74c" />
+<img width="150" height="20" alt="blinkiesCafe-ec" src="https://github.com/user-attachments/assets/e2ae61b8-b4f4-4550-b807-8168832a6cf6" />
+<img width="150" height="20" alt="blinkiesCafe-EF" src="https://github.com/user-attachments/assets/6ad8c3da-255a-4105-b07e-b5e1a817b849" />
+<img width="150" height="20" alt="blinkiesCafe-OR" src="https://github.com/user-attachments/assets/e901e32e-b2c7-4998-bec6-9c0db70de115" />
+<img width="150" height="20" alt="blinkiesCafe-WR" src="https://github.com/user-attachments/assets/3fcb5423-6827-4fb5-9abb-54acf08871f5" />
+
 
 
 ${\color{#e0b577} \space}$
