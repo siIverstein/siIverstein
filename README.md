@@ -43,6 +43,7 @@ ${\color{#e0b577} \space}$
 
 
 <img width="99" height="56" alt="image" src="https://github.com/user-attachments/assets/c2f3499b-8c36-4118-a248-f058b28aa097" />
+<img width="101" height="57" alt="image" src="https://github.com/user-attachments/assets/c6c543b9-8d46-49f2-ba01-33adc5f4e51c" />
 <img width="99" height="56" alt="image" src="https://github.com/user-attachments/assets/9156843c-5bca-4958-89b5-0711d0a26da4" />
 <img width="99" height="56" alt="image" src="https://github.com/user-attachments/assets/c256ec71-452b-4e6b-9e09-2438e7d7a730" />
 <img width="99" height="55" alt="image" src="https://github.com/user-attachments/assets/eb6a5091-f5ca-4d14-a09d-0d9de7ae658b" />
