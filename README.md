@@ -52,6 +52,8 @@ ${\space}$
 <img width="150" height="20" alt="blinkiesCafe-VQ" src="https://github.com/user-attachments/assets/b13ab86e-4c7c-49cf-b047-c760045bcdf1" />
 <img width="150" height="20" alt="blinkiesCafe-kt" src="https://github.com/user-attachments/assets/9557cad6-d2bb-4672-85cc-809353963b25" />
 <img width="150" height="20" alt="blinkiesCafe-LR" src="https://github.com/user-attachments/assets/3a28c4bf-dfff-446b-8ab7-be1236a5bf52" />
+<img width="150" height="20" alt="blinkiesCafe-7y" src="https://github.com/user-attachments/assets/0a214c06-dd78-4c73-bedf-e26101030d6f" />
+<img width="150" height="20" alt="blinkiesCafe-YV" src="https://github.com/user-attachments/assets/0f25be2e-1d59-40d5-8c26-881e7c64104c" />
 
 
 
