@@ -8,6 +8,8 @@ Wip. finnish tomorrow
 ### ${\color{#1b2139}  𝄞}$ ${\color{#2b758a} 𝖒𝖚𝖘𝖎𝖈 \space 𝖎𝖘 \space 𝖒𝖞 \space 𝖑𝖎𝖋𝖊 \space}$
 
 <img width="400" height="12" alt="image" src="https://github.com/user-attachments/assets/7c5176f6-4ec5-4f16-b2a8-484ee48a6300" />
+<img width="400" height="12" alt="image" src="https://github.com/user-attachments/assets/7c5176f6-4ec5-4f16-b2a8-484ee48a6300" />
+
 
 <img width="1036" height="614" alt="image" src="https://github.com/user-attachments/assets/47f47d62-fa5e-419b-ab12-5e905709a050" />
 
