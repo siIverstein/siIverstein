@@ -15,7 +15,8 @@ ${\space}$
 ${\color{#1b2139} atab \space so \space dry \space some1 \space pls \space sign}$ ${\color{#e0b577}}$ [it](https://kiribaku.atabook.org/)
 ${\space}$
 
-<a href='https://blinkies.cafe' target='_blank'><img src='https://blinkies.cafe/b/display/blinkiesCafe-badge.gif' alt='blinkies.cafe | make your own blinkies!'></a>
+<img width="150" height="20" alt="blinkiesCafe-5I" src="https://github.com/user-attachments/assets/e8103e8a-ba37-407c-9a8b-ba4625911434" />
+
 
 ${\color{#e0b577} \space}$
 
@@ -25,5 +26,3 @@ ${\color{#e0b577}}$ [pt-walf-of-fame](https://github.com/pt-walk-of-fame
 )
 ${\color{#e0b577}}$ [pt-friendships (ty Rodri •√•)](https://github.com/pt-friendships
 )
-
-<a href='https://blinkies.cafe' target='_blank'><img src='https://blinkies.cafe/b/display/blinkiesCafe-badge.gif' alt='blinkies.cafe | make your own blinkies!'></a>
