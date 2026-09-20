@@ -237,17 +237,14 @@ ${\space}$
 <img width="99" height="56" alt="image" src="https://github.com/user-attachments/assets/d60a9b27-8255-40a1-a909-158f471de12d" />
 <img width="99" height="56" alt="image" src="https://github.com/user-attachments/assets/d3568f94-a3cb-4cdb-94a8-c15f746cd173" />
 <img width="99" height="56" alt="image" src="https://github.com/user-attachments/assets/3c7ee063-2d5f-469a-ab6e-7c50e34aaae0" />
-
+<img width="99" height="56" alt="image" src="https://github.com/user-attachments/assets/20389a1d-2275-4308-871a-6c85e12c29ab" />
+<img width="400" height="46" alt="image" src="https://github.com/user-attachments/assets/6cd45d25-444f-4f2d-bbe0-d10562771a0d" />
 
 
 <img width="150" height="20" alt="image" src="https://github.com/user-attachments/assets/a172f15e-7428-4c5c-ab9f-d2e8f3d0f43b" />
 <img width="148" height="20" alt="image" src="https://github.com/user-attachments/assets/08324055-9661-417c-ba64-0ea67110bc4d" />
 <img width="120" height="20" alt="image" src="https://github.com/user-attachments/assets/fb4b376f-ead9-417d-9223-14bea40db98d" />
 <img width="150" height="20" alt="image" src="https://github.com/user-attachments/assets/0a96fc21-b89f-4533-a91e-695fd73083ab" />
-<img width="200" height="40" alt="image" src="https://github.com/user-attachments/assets/659f01d2-d9c5-4d2b-a1c7-5c499a379f06" />
-<img width="200" height="40" alt="image" src="https://github.com/user-attachments/assets/6d13cffc-dac4-4799-b25c-2fcbd6b10160" />
-<img width="400" height="46" alt="image" src="https://github.com/user-attachments/assets/6cd45d25-444f-4f2d-bbe0-d10562771a0d" />
-
 
 
 ${\color{#e0b577} \space}$
