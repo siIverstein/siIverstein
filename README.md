@@ -3,7 +3,7 @@
   <img src="https://komarev.com/ghpvc/?username=eh&label=ᖳᖰ&color=3f0732&style=flat" alt="iwaoi" />
 </p>
 
-### ${\color{#1b2139} 𝄞 \space 𝖒𝖚𝖘𝖎𝖈 \space 𝖎𝖘 \space 𝖒𝖞 \space 𝖑𝖎𝖋𝖊 \space}$ ###
+### ${\color{#2b758a} 𝄞 \space 𝖒𝖚𝖘𝖎𝖈 \space 𝖎𝖘 \space 𝖒𝖞 \space 𝖑𝖎𝖋𝖊 \space}$ ###
 
 ${\space}$
 
