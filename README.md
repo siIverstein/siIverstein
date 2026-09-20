@@ -167,8 +167,6 @@ ${\space}$
 <img width="150" height="20" alt="image" src="https://github.com/user-attachments/assets/3d9d8f72-1e8e-4f57-8fc5-180381d1906c" />
 <img width="150" height="20" alt="image" src="https://github.com/user-attachments/assets/652e6103-c9fa-486d-a15b-d56a21b3ba19" />
 <img width="150" height="20" alt="image" src="https://github.com/user-attachments/assets/7730983f-d849-4d95-a915-acc73b609d8a" />
-
-<img width="300" height="40" alt="image" src="https://github.com/user-attachments/assets/6d07f8e1-e669-41c7-b5d3-678bc244edaf" />
 <img width="150" height="43" alt="image" src="https://github.com/user-attachments/assets/2b28b59a-84c9-4b58-852a-93742e8f9346" />
 <img width="99" height="55" alt="image" src="https://github.com/user-attachments/assets/38d755e3-4960-45d7-858c-54da0690e3a5" />
 <img width="99" height="56" alt="image" src="https://github.com/user-attachments/assets/c84bf594-03d4-42ae-b8fb-93a81cb8ba0b" />
