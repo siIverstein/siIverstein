@@ -72,6 +72,7 @@ ${\space}$
 <img width="150" height="20" alt="blinkiesCafe-BX" src="https://github.com/user-attachments/assets/41233b74-80f6-4784-a03e-96bf4bf5096b" />
 <img width="150" height="20" alt="blinkiesCafe-N9" src="https://github.com/user-attachments/assets/3e5e952e-8596-4864-bb52-5288842fecf2" />
 <img width="150" height="20" alt="blinkiesCafe-RU (1)" src="https://github.com/user-attachments/assets/d6b9f028-1551-4ca8-816f-1a9a82bb75f1" />
+<img width="150" height="20" alt="blinkiesCafe-cC" src="https://github.com/user-attachments/assets/9c6d65db-b3a9-4715-9996-7f7671d4d6a1" />
 
 
 
