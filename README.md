@@ -19,6 +19,15 @@ ${\space}$
 ${\color{#1b2139} atab \space so \space dry \space some1 \space pls \space sign}$ ${\color{#e0b577}}$ [it](https://kiribaku.atabook.org/)
 ${\space}$
 
+${\color{#e0b577} \space}$
+
+${\color{#3f0732} Thankchuu<3 }$
+
+${\color{#e0b577}}$ [pt-walf-of-fame](https://github.com/pt-walk-of-fame
+)
+${\color{#e0b577}}$ [pt-friendships (ty Rodri •√•)](https://github.com/pt-friendships
+)
+
 
 <img width="150" height="20" alt="blinkiesCafe-fP" src="https://github.com/user-attachments/assets/f55ab52b-934a-4d41-a9af-d87ef033e780" />
 <img width="150" height="20" alt="blinkiesCafe-LO" src="https://github.com/user-attachments/assets/b42f4ee2-dfd7-4e06-9224-10dca999658b" />
@@ -246,12 +255,3 @@ ${\space}$
 <img width="120" height="20" alt="image" src="https://github.com/user-attachments/assets/fb4b376f-ead9-417d-9223-14bea40db98d" />
 <img width="150" height="20" alt="image" src="https://github.com/user-attachments/assets/0a96fc21-b89f-4533-a91e-695fd73083ab" />
 
-
-${\color{#e0b577} \space}$
-
-${\color{#3f0732} Thankchuu<3 }$
-
-${\color{#e0b577}}$ [pt-walf-of-fame](https://github.com/pt-walk-of-fame
-)
-${\color{#e0b577}}$ [pt-friendships (ty Rodri •√•)](https://github.com/pt-friendships
-)
