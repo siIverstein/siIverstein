@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="https://komarev.com/ghpvc/?username=eh&label=ᖳᖰ&color=3f0732&style=flat" alt="iwaoi" />
+  <img src="https://komarev.com/ghpvc/?username=eh&label=ᖳᖰ&color=2b758a&style=flat" alt="iwaoi" />
 </p>
 
 ### ${\color{#1b2139}  𝄞}$ ${\color{#2b758a} 𝖒𝖚𝖘𝖎𝖈 \space 𝖎𝖘 \space 𝖒𝖞 \space 𝖑𝖎𝖋𝖊 \space}$
