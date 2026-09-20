@@ -75,7 +75,7 @@ ${\space}$
 <img width="150" height="20" alt="blinkiesCafe-cC" src="https://github.com/user-attachments/assets/9c6d65db-b3a9-4715-9996-7f7671d4d6a1" />
 <img width="150" height="20" alt="blinkiesCafe-JM" src="https://github.com/user-attachments/assets/5a4b9430-10d6-49c1-8e45-524c7f2a3990" />
 <img width="150" height="20" alt="blinkiesCafe-cZ (1)" src="https://github.com/user-attachments/assets/441e85d9-07f3-416b-9b08-f3a0ac485211" />
-<img width="150" height="20" alt="blinkiesCafe-cZ (1)" src="https://github.com/user-attachments/assets/8d3a4309-24aa-405a-95ee-3790afd2c043" />
+<img width="150" height="20" alt="image" src="https://github.com/user-attachments/assets/b6736d96-84bf-4909-9282-d3c0337d0990" />
 <img width="150" height="20" alt="image" src="https://github.com/user-attachments/assets/1291f8c8-88db-4800-915f-9b414b260626" />
 
 
