@@ -222,8 +222,7 @@ ${\space}$
 <img width="99" height="56" alt="image" src="https://github.com/user-attachments/assets/37a4cb7f-9462-479b-b620-802476ce51cc" />
 <img width="99" height="56" alt="image" src="https://github.com/user-attachments/assets/f9e10d6c-2204-46e1-898f-e09190997622" />
 <img width="99" height="56" alt="image" src="https://github.com/user-attachments/assets/ceba2b75-fdb7-4a8d-9758-859a3ef9bb16" />
-<img width="540" height="120" alt="image" src="https://github.com/user-attachments/assets/812e7ee9-c7c1-47ba-8e1b-27447befe122" />
-
+<img width="540" height="50" alt="image" src="https://github.com/user-attachments/assets/812e7ee9-c7c1-47ba-8e1b-27447befe122" />
 
 <img width="99" height="56" alt="image" src="https://github.com/user-attachments/assets/3b7500d3-4e96-4401-a989-c716de9ef9e9" />
 <img width="99" height="56" alt="image" src="https://github.com/user-attachments/assets/5cf3bfc3-85b9-42c5-b15f-fbbe6f04a198" />
