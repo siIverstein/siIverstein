@@ -15,7 +15,12 @@ ${\space}$
 ${\color{#1b2139} atab \space so \space dry \space some1 \space pls \space sign}$ ${\color{#e0b577}}$ [it](https://kiribaku.atabook.org/)
 ${\space}$
 
+
+
+<img width="150" height="20" alt="blinkiesCafe-fP" src="https://github.com/user-attachments/assets/f55ab52b-934a-4d41-a9af-d87ef033e780" />
 <img width="150" height="20" alt="blinkiesCafe-5I" src="https://github.com/user-attachments/assets/e8103e8a-ba37-407c-9a8b-ba4625911434" />
+
+
 
 
 ${\color{#e0b577} \space}$
