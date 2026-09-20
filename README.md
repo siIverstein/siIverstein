@@ -29,10 +29,8 @@ ${\space}$
 <img width="150" height="20" alt="blinkiesCafe-Es" src="https://github.com/user-attachments/assets/1557b5a9-bada-4f18-a4bf-fe35fef6c4d9" />
 <img width="150" height="20" alt="blinkiesCafe-b3" src="https://github.com/user-attachments/assets/a9be4428-7513-426b-bab8-4cb86960130e" />
 <img width="150" height="20" alt="blinkiesCafe-di" src="https://github.com/user-attachments/assets/c35d2ddb-63fd-4620-b3ed-3e01650dbd10" />
-
-
-
-
+<img width="150" height="20" alt="blinkiesCafe-ik" src="https://github.com/user-attachments/assets/1ab52610-e78f-4bfc-b672-f475d39a6305" />
+<img width="150" height="20" alt="blinkiesCafe-LO" src="https://github.com/user-attachments/assets/b42f4ee2-dfd7-4e06-9224-10dca999658b" />
 
 
 ${\color{#e0b577} \space}$
