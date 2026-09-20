@@ -1,3 +1,5 @@
+Wip. finnish tomorrow
+
 <div align="center">
 
   <img src="https://komarev.com/ghpvc/?username=eh&label=ᖳᖰ&color=3f0732&style=flat" alt="iwaoi" />
