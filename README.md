@@ -18,7 +18,7 @@ ${\color{#1b2139} atab \space so \space dry \space some1 \space pls \space sign}
 ${\space}$
 
 
-
+<img width="150" height="43" alt="image" src="https://github.com/user-attachments/assets/27d7c3c7-6c7b-46b0-bf07-231a47637fb2" />
 <img width="150" height="20" alt="blinkiesCafe-fP" src="https://github.com/user-attachments/assets/f55ab52b-934a-4d41-a9af-d87ef033e780" />
 <img width="150" height="20" alt="blinkiesCafe-LO" src="https://github.com/user-attachments/assets/b42f4ee2-dfd7-4e06-9224-10dca999658b" />
 <img width="150" height="20" alt="blinkiesCafe-5I" src="https://github.com/user-attachments/assets/e8103e8a-ba37-407c-9a8b-ba4625911434" />
