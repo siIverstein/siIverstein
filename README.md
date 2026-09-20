@@ -68,6 +68,10 @@ ${\space}$
 <img width="150" height="20" alt="blinkiesCafe-OR" src="https://github.com/user-attachments/assets/e901e32e-b2c7-4998-bec6-9c0db70de115" />
 <img width="150" height="20" alt="blinkiesCafe-WR" src="https://github.com/user-attachments/assets/3fcb5423-6827-4fb5-9abb-54acf08871f5" />
 <img width="150" height="20" alt="blinkiesCafe-rp" src="https://github.com/user-attachments/assets/af42da5d-922d-4e97-bb83-82d0b21ab6bd" />
+<img width="150" height="20" alt="blinkiesCafe-yq" src="https://github.com/user-attachments/assets/cc3dd35b-50b4-4307-b1ac-c508fe6d5ec4" />
+<img width="150" height="20" alt="blinkiesCafe-BX" src="https://github.com/user-attachments/assets/41233b74-80f6-4784-a03e-96bf4bf5096b" />
+<img width="150" height="20" alt="blinkiesCafe-N9" src="https://github.com/user-attachments/assets/3e5e952e-8596-4864-bb52-5288842fecf2" />
+<img width="150" height="20" alt="blinkiesCafe-RU (1)" src="https://github.com/user-attachments/assets/d6b9f028-1551-4ca8-816f-1a9a82bb75f1" />
 
 
 
