@@ -49,7 +49,9 @@ ${\space}$
 <img width="150" height="20" alt="blinkiesCafe-yD" src="https://github.com/user-attachments/assets/7d082ae8-bfa8-45b2-8baa-f1dbd1072765" />
 <img width="150" height="20" alt="blinkiesCafe-Ea" src="https://github.com/user-attachments/assets/bf19649f-f79c-4836-840a-ab029fc473fd" />
 <img width="150" height="20" alt="blinkiesCafe-7d" src="https://github.com/user-attachments/assets/ccbc2d09-5728-413d-b503-2e3cefecded5" />
-
+<img width="150" height="20" alt="blinkiesCafe-VQ" src="https://github.com/user-attachments/assets/b13ab86e-4c7c-49cf-b047-c760045bcdf1" />
+<img width="150" height="20" alt="blinkiesCafe-kt" src="https://github.com/user-attachments/assets/9557cad6-d2bb-4672-85cc-809353963b25" />
+<img width="150" height="20" alt="blinkiesCafe-LR" src="https://github.com/user-attachments/assets/3a28c4bf-dfff-446b-8ab7-be1236a5bf52" />
 
 
 
